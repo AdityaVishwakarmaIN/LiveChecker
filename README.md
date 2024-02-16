@@ -1,4 +1,4 @@
-## Title: Website Availability Checker with Basic Content Length Threshold
+# Website Availability Checker with Basic Content Length Threshold
 
 **Real-life application:** This Python code can be used for various purposes, including:
 
